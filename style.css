@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    background-color: #B3BBC6;
+    height: 55;
+    width: 1255;
+    border-style: outset;
+    border-radius: 10px;
+    padding: 5px;
+
+    display: flex;
+    justify-content: end;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+h1,h2 {
+    color:#403D3D;
+}
