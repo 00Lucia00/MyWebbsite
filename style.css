@@ -110,8 +110,19 @@ footer {
   
 
 }
+.bild-container{
+  display: flex;
+  
+}
+.intro-bild{
+  border-radius: 50%;
+  height: 280px;
+  width: 280px;
+
+}
 
 .logo{
+  width: 40px;
  height: 40px;
 }
 
