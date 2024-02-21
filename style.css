@@ -5,21 +5,19 @@
 }
 
 body {
-  background-color: #E9EBEC;
+  background-color: #e9ebec;
   display: grid;
   grid-template-rows: auto;
   font-family: Arial, sans-serif;
-
 }
 
 nav {
-  background-color: #8898AF;
+  background-color: #8898af;
   opacity: 0.7;
   height: 55;
   width: 1255;
   border-radius: 10px;
   margin: 30px;
- 
 
   display: flex;
   justify-content: space-between;
@@ -33,22 +31,21 @@ header {
   background-size: cover;
   background-position: center;
 
-  background-size: 100%, ;
+  background-size: 100%;
 
   height: 720px;
-  
 }
 
 header h1,
 h2 {
   color: #403d3d;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
 }
-header h1{
+header h1 {
   font-size: 67px;
   font-weight: 500;
 }
-header h2{
+header h2 {
   font-size: 36px;
   font-weight: 500;
 }
@@ -57,7 +54,7 @@ header h2{
   list-style: none;
 }
 
-.nav_links li{
+.nav_links li {
   display: inline-block;
   margin-right: 20px;
 }
@@ -81,7 +78,7 @@ main h2 {
 }
 
 footer {
-  background-color: #B3BBC6;
+  background-color: #b3bbc6;
   color: #fff;
   text-align: left;
   padding: 10px;
@@ -99,7 +96,7 @@ footer {
   transform: translate(-50%, -50%);
 }
 
-.main_container{
+.main_container {
   background-color: white;
   display: inline-block;
   width: 80%;
@@ -107,22 +104,17 @@ footer {
   position: absolute;
   left: 10%;
   top: 80%;
-  
-
 }
-.bild-container{
+.bild-container {
   display: flex;
-  
 }
-.intro-bild{
+.intro-bild {
   border-radius: 50%;
   height: 280px;
   width: 280px;
-
 }
 
-.logo{
+.logo {
   width: 40px;
- height: 40px;
+  height: 40px;
 }
-
