@@ -19,10 +19,11 @@ nav {
   width: 1255;
   border-radius: 10px;
   margin: 30px;
-  padding: 10px;
+ 
 
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
 header {
@@ -80,10 +81,11 @@ main h2 {
 }
 
 footer {
-  background-color: #333;
+  background-color: #B3BBC6;
   color: #fff;
-  text-align: center;
+  text-align: left;
   padding: 10px;
+  height: 300px;
 }
 
 .flex-container {
@@ -110,8 +112,6 @@ footer {
 }
 
 .logo{
-  position: relative;
-  height: 50px;
-  width: 60px;
+ height: 40px;
 }
 
