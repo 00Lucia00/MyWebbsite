@@ -14,10 +14,11 @@ body {
 nav {
   background-color: #8898af;
   opacity: 0.7;
-  height: 55;
+  height: 100;
   width: 1255;
   border-radius: 10px;
   margin: 30px;
+  padding: 10px;
 
   display: flex;
   justify-content: space-between;
@@ -115,6 +116,10 @@ footer {
 }
 
 .logo {
-  width: 40px;
-  height: 40px;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 0;
+  left: 1%;
+  z-index: 1;
 }
