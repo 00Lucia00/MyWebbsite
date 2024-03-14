@@ -104,15 +104,19 @@ footer {
   height: 400px;
   position: absolute;
   left: 10%;
-  top: 80%;
+  top: 85%;
 }
 .bild-container {
   display: flex;
+
 }
 .intro-bild {
+  margin-left: 150px;
   border-radius: 50%;
   height: 280px;
   width: 280px;
+  object-fit: cover;
+  object-position: 25%; 
 }
 
 .logo {
