@@ -108,10 +108,12 @@ footer {
 }
 .bild-container {
   display: flex;
+  
 
 }
 .intro-bild {
-  margin-left: 150px;
+  margin-left: 100px;
+  margin-top: 60px;
   border-radius: 50%;
   height: 280px;
   width: 280px;
