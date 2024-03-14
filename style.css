@@ -111,18 +111,18 @@ footer {
   align-items: center;
 }
 .intro-text{
-  
-    padding-left: 20px;
-    padding-top: 20%;
+    margin-left: 20px;
     float: left;
 }
 .intro-bild {
   margin-left: 100px;
   margin-top: 60px;
   margin-right: 60px;
+  
   border-radius: 50%;
   height: 280px;
   width: 280px;
+
   object-fit: cover;
   object-position: 25% 50%; 
 }
