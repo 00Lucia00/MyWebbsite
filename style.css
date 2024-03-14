@@ -108,17 +108,23 @@ footer {
 }
 .bild-container {
   display: flex;
+  align-items: center;
+}
+.intro-text{
   
-
+    padding-left: 20px;
+    padding-top: 20%;
+    float: left;
 }
 .intro-bild {
   margin-left: 100px;
   margin-top: 60px;
+  margin-right: 60px;
   border-radius: 50%;
   height: 280px;
   width: 280px;
   object-fit: cover;
-  object-position: 25%; 
+  object-position: 25% 50%; 
 }
 
 .logo {
